@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/campb/Documents/Programming/MonoGame/Testing/Testing/Content/effect/grayscale.fx","c:/Users/campb/Documents/Programming/MonoGame/Testing/Testing/Content/bin/DesktopGL/effect/grayscale.xnb","EffectProcessor","CompiledEffectContent",558,713,0.4884976
+"c:/Users/campb/Documents/Programming/MonoGame/Testing/Testing/Content/texture/atlas_test.png","c:/Users/campb/Documents/Programming/MonoGame/Testing/Testing/Content/bin/DesktopGL/texture/atlas_test.xnb","TextureProcessor","Texture2DContent",748,16469,0.1229666
+"c:/Users/campb/Documents/Programming/MonoGame/Testing/Testing/Content/texture/cursor/pointer.png","c:/Users/campb/Documents/Programming/MonoGame/Testing/Testing/Content/bin/DesktopGL/texture/cursor/pointer.xnb","TextureProcessor","Texture2DContent",461,2789,0.0627577
+"c:/Users/campb/Documents/Programming/MonoGame/Testing/Testing/Content/texture/test.png","c:/Users/campb/Documents/Programming/MonoGame/Testing/Testing/Content/bin/DesktopGL/texture/test.xnb","TextureProcessor","Texture2DContent",605,2789,0.073737

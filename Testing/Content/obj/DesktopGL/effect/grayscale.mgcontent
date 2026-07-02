@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/Users/campb/Documents/Programming/MonoGame/Testing/Testing/Content/effect/grayscale.fx</SourceFile>
+  <SourceTime>2026-07-01T16:47:14.2496535-04:00</SourceTime>
+  <DestFile>c:/Users/campb/Documents/Programming/MonoGame/Testing/Testing/Content/bin/DesktopGL/effect/grayscale.xnb</DestFile>
+  <DestTime>2026-07-01T16:47:20.3650191-04:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2025-06-02T06:31:02-04:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2025-06-02T06:31:02-04:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

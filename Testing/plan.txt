@@ -1,0 +1,9 @@
+Rain World x Silksong
+
+-Combat is primitive
+-Maps are confusing and non-linear
+-Entities can interact
+
+WORLD:
+    Regions
+        
